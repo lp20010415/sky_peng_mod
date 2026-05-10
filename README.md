@@ -1,10 +1,7 @@
-<div style="text-align: center;">
+<div align="center" style="text-align: center;">
 
 # sky_peng_mod
-
 **作者:sky_peng**
-
----
 
 ![mod version](https://img.shields.io/badge/Mod%20Version-0.1.0-blue)
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.11-green)
