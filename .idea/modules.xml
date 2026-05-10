@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sky_peng_mod.client.iml" filepath="$PROJECT_DIR$/.idea/modules/sky_peng_mod.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sky_peng_mod.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sky_peng_mod.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sky_peng_mod.test.iml" filepath="$PROJECT_DIR$/.idea/modules/sky_peng_mod.test.iml" />
+    </modules>
+  </component>
+</project>

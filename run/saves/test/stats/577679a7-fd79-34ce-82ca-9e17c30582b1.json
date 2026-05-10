@@ -1,0 +1,24 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "sky_peng_mod:da_guo": 5
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 227,
+      "minecraft:time_since_rest": 1689,
+      "minecraft:walk_one_cm": 867,
+      "minecraft:total_world_time": 1721,
+      "minecraft:leave_game": 2,
+      "minecraft:fly_one_cm": 81,
+      "minecraft:sneak_time": 8,
+      "minecraft:play_time": 1689,
+      "minecraft:jump": 2,
+      "minecraft:time_since_death": 1689
+    },
+    "minecraft:used": {
+      "sky_peng_mod:da_guo": 1,
+      "minecraft:oak_leaves": 21
+    }
+  },
+  "DataVersion": 4671
+}

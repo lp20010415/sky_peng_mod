@@ -1,0 +1,15 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 1263,
+      "minecraft:total_world_time": 1437,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 1263,
+      "minecraft:time_since_death": 1263
+    },
+    "minecraft:used": {
+      "sky_peng_mod:da_guo": 5
+    }
+  },
+  "DataVersion": 4671
+}

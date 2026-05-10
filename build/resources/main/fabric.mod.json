@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "sky_peng_mod",
+  "version": "0.0.1",
+  "name": "sky_peng_mod",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/sky_peng_mod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "org.diymod.sky_peng_mod.client.Sky_peng_modDataGenerator"
+    ],
+    "client": [
+      "org.diymod.sky_peng_mod.client.Sky_peng_modClient"
+    ],
+    "main": [
+      "org.diymod.sky_peng_mod.Sky_peng_mod"
+    ]
+  },
+  "mixins": [
+    "sky_peng_mod.mixins.json",
+    {
+      "config": "sky_peng_mod.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.6",
+    "fabric-api": "*",
+    "minecraft": "1.21.11"
+  }
+}

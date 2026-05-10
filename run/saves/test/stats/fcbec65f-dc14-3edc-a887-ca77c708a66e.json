@@ -1,0 +1,16 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "sky_peng_mod:da_guo": 11,
+      "minecraft:melon_slice": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 34045,
+      "minecraft:total_world_time": 34045,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 34045,
+      "minecraft:time_since_death": 34045
+    }
+  },
+  "DataVersion": 4671
+}
